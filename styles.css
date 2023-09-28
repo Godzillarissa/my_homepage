@@ -1,15 +1,17 @@
 * {
-    background-color: #22668D;
+    background-color: #FFCC70;
+    font-family: Bungee, sans-serif;
+}
+
+img {
+    height: 300px;
+    border-radius: 50%;
 }
 
 hr {
-    border: 1px dashed #8ECDDD;
-}
-
-p {
-    color: #FFFADD;
+    border: 1px dashed #000000;
 }
 
 a {
-    color: #FFCC70;
+    color: #22668D;
 }
